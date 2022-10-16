@@ -14,7 +14,7 @@ Terms and Conditions of SocialScore.py
 
 1.) I [Jeremy] am not responsible for misuse of this tool.  The intended purpose of this tool is to enhance privacy, not degrade it.  
 
-2.) Any modifications to this tool the cause the intent to change are prohibitted and are not supported by the original creator.
+2.) Any modifications to this tool that cause the intent to change are prohibitted and are not supported by the original creator.
 
 3.) Users of this tool should only scrape their own profiles, or profiles in which they have permission to scrape/log in to.
 
